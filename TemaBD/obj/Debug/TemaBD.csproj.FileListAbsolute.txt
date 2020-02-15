@@ -1,0 +1,13 @@
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.csprojAssemblyReference.cache
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.HomeScreen.resources
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.csproj.GenerateResource.cache
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\bin\Debug\TemaBD.exe.config
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\bin\Debug\TemaBD.exe
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\bin\Debug\TemaBD.pdb
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.Properties.Resources.resources
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.exe
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.pdb
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.ShowData.resources
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.ShowClient.resources
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.ShowModel.resources
+C:\Users\zavoi\Desktop\FACULTATE\AN III FACULTATE\SEM1\BD\TEMA\TemaBD\obj\Debug\TemaBD.ShowCautariAvansate.resources
